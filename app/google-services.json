@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56538745279",
+    "project_id": "instragramsunzid",
+    "storage_bucket": "instragramsunzid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56538745279:android:e1b0cbb939a97b89a0390a",
+        "android_client_info": {
+          "package_name": "com.example.instragram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56538745279-17t8emap5opbhlkfmjgc77a4j6rm2oeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzE2lXxId1NLzqXGLWTywQaUeB-z_9UrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56538745279-17t8emap5opbhlkfmjgc77a4j6rm2oeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
