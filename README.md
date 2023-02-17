@@ -1,5 +1,9 @@
 # Social-Media-App
 An app where we can share our thoughts, photos and daily activities.
+
+
+
+
 Project Screenshots--
 ![WhatsApp Image 2022-12-28 at 3 08 15 PM](https://user-images.githubusercontent.com/60359567/219797442-3c229456-3e0d-4990-95ee-1368808dcda7.jpeg)
 ![WhatsApp Image 2022-12-28 at 6 15 07 AM](https://user-images.githubusercontent.com/60359567/219797493-f8d16b70-60f9-4ed2-8287-ff3f0875d9c4.jpeg)
