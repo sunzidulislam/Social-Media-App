@@ -1,8 +1,3 @@
-Perfect! We can include **all your provided screenshots** in a clean, scrollable format so the README doesn’t become cluttered. Below is a **professional README** with all your images included under a dedicated **Project Screenshots** section. I’ve organized them in a grid-style table and multiple rows for readability.
-
----
-
-````markdown
 # 📱 Social Media App  
 
 An interactive web application where users can **share thoughts, photos, and daily activities**. Designed to provide a user-friendly experience for social interaction and content sharing.  
