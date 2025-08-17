@@ -15,16 +15,6 @@ An interactive web application where users can **share thoughts, photos, and dai
 
 ---
 
-## 🛠️ Tech Stack
-
-* **Frontend**: HTML, CSS, JavaScript
-* **Backend**: Laravel *(or your chosen backend)*
-* **Database**: MySQL / SQLite
-* **Authentication**: Laravel Authentication / JWT
-* **Hosting**: Optional (Heroku, Netlify, Vercel)
-
----
-
 ## 📸 Project Screenshots
 
 ### 1️⃣ Home Feed & User Interface
